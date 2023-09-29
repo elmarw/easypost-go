@@ -58,6 +58,8 @@ type ShipmentOptions struct {
 	SmartpostHub             string    `json:"smartpost_hub,omitempty"`
 	SmartpostManifest        string    `json:"smartpost_manifest,omitempty"`
 	SuppressETD              bool      `json:"suppress_etd,omitempty"`
+	CommercialInvoiceSignature     string `json:"commercial_invoice_signature"`
+	CommercialInvoiceLetterhead    string `json:"commercial_invoice_letterhead"`
 }
 
 // Payment provides information on how a shipment is billed.
