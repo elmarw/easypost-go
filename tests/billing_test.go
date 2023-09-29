@@ -1,6 +1,6 @@
 package easypost_test
 
-import "github.com/EasyPost/easypost-go/v3"
+import "github.com/elmarw/easypost-go/v3"
 
 func GetBillingMockRequests() []easypost.MockRequest {
 	return []easypost.MockRequest{

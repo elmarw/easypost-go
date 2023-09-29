@@ -14,7 +14,7 @@ body:
       # change this description for the specific repo
       description: |
         What version of our software are you running?
-        TIP: [Available versions](https://github.com/EasyPost/easypost-go/releases)
+        TIP: [Available versions](https://github.com/elmarw/easypost-go/releases)
     validations:
       required: true
   - type: input

@@ -28,7 +28,7 @@ With the transition to `v3`, this library must now be imported as follows:
 
 ```go
 import (
-    "github.com/EasyPost/easypost-go/v3"
+    "github.com/elmarw/easypost-go/v3"
 )
 ```
 
@@ -211,7 +211,7 @@ With the transition to `v2`, this library must now be imported as follows:
 
 ```go
 import (
-    "github.com/EasyPost/easypost-go/v2"
+    "github.com/elmarw/easypost-go/v2"
 )
 ```
 

@@ -2,7 +2,7 @@ package easypost_test
 
 import (
 	"context"
-	"github.com/EasyPost/easypost-go/v3"
+	"github.com/elmarw/easypost-go/v3"
 	"github.com/google/uuid"
 )
 

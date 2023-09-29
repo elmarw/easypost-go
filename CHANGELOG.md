@@ -150,7 +150,7 @@
 
 ## v2.0.1 (2022-02-10)
 
-- Corrects namespace for v2 release from `github.com/EasyPost/easypost-go` to `github.com/EasyPost/easypost-go/v2`
+- Corrects namespace for v2 release from `github.com/EasyPost/easypost-go` to `github.com/elmarw/easypost-go/v2`
 
 ## v2.0.0 (2022-02-09)
 

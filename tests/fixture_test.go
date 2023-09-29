@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/EasyPost/easypost-go/v3"
+	"github.com/elmarw/easypost-go/v3"
 )
 
 type Fixture struct {

@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/EasyPost/easypost-go/v3"
+	"github.com/elmarw/easypost-go/v3"
 )
 
 func (c *ClientTests) TestParcelCreate() {
